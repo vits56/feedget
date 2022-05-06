@@ -10,12 +10,6 @@
 
 </div>
 
-# Índice
-
-* [Sobre o projeto](#interrobang-sobre-o-projeto)
-* [Tecnologias utilizadas](#-tecnologias-utilizadas)
-* [Executando a aplicação](#rocket-executando-a-aplicação)
-
 # Sobre o projeto
 
 Projeto realizado durante a NLW#Return realizado pela Rocketseat. Foi desenvolvido um widget para o usuário realizar feedback de maneira interativa.
