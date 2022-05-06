@@ -13,10 +13,8 @@
 # Índice
 
 * [Sobre o projeto](#interrobang-sobre-o-projeto)
-  - [Tecnologias utilizadas](#-tecnologias-utilizadas)
+* [Tecnologias utilizadas](#-tecnologias-utilizadas)
 * [Executando a aplicação](#rocket-executando-a-aplicação)
-* [Para contribuir](#mailbox-para-contribuir)
-* [Histórico de atualizações](#clock10-histórico-de-atualizações)
 
 # Sobre o projeto
 
