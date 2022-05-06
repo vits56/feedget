@@ -1,5 +1,6 @@
 # Feedget
 
+
 <div align="center">
 
 
@@ -8,6 +9,17 @@
 ![Badge](https://img.shields.io/badge/Tailwind_CSS-v3.0.24-blue?style=flat&logo=TailwindCSS&color=298BF9&labelColor=000000)
 
 
+</div>
+
+## Screenshots
+
+<div align="center" id="top"> 
+  <img src="./src/assets/screen2.png" alt="02 Dtmoney" />
+</div>
+<br/>
+<br/>
+<div align="center" id="top"> 
+  <img src="./src/assets/screen1.png" alt="02 Dtmoney" />
 </div>
 
 # Sobre o projeto
