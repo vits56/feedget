@@ -41,3 +41,13 @@ E utilizar o comando:
     yarn dev
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+
+## License
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+
+Made with 💜 by <a href="https://github.com/vits56" target="_blank">Bruno Bastos Duarte</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
